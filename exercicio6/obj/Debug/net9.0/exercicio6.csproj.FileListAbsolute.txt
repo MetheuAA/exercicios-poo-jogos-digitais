@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\bin\Debug\net9.0\exercicio6.exe
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\bin\Debug\net9.0\exercicio6.deps.json
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\bin\Debug\net9.0\exercicio6.runtimeconfig.json
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\bin\Debug\net9.0\exercicio6.dll
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\bin\Debug\net9.0\exercicio6.pdb
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\exercicio6.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\exercicio6.AssemblyInfo.cs
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\exercicio6.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\exercicio6.sourcelink.json
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\exercicio6.dll
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\refint\exercicio6.dll
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\exercicio6.pdb
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\exercicio6.genruntimeconfig.cache
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio6\obj\Debug\net9.0\ref\exercicio6.dll
