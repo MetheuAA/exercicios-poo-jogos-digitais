@@ -12,19 +12,19 @@ namespace exercicio12.Model
 
         public void DispararChefeDerrotado()
         {
-            Console.WriteLine("🔥 Chefe derrotado!");
+            Console.WriteLine(" Chefe derrotado!");
             ChefeDerrotado?.Invoke();
         }
 
         public void DispararJogadorSubiuNivel(string nome)
         {
-            Console.WriteLine($"⬆️ {nome} subiu de nível!");
+            Console.WriteLine($" {nome} subiu de nível!");
             JogadorSubiuNivel?.Invoke(nome);
         }
 
         public void DispararMissaoConcluida(string nomeMissao)
         {
-            Console.WriteLine($"✅ Missão \"{nomeMissao}\" concluída!");
+            Console.WriteLine($" Missão \"{nomeMissao}\" concluída!");
             MissaoConcluida?.Invoke(nomeMissao);
         }
     }
