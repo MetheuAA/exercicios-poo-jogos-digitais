@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\bin\Debug\net9.0\exercicio11.exe
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\bin\Debug\net9.0\exercicio11.deps.json
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\bin\Debug\net9.0\exercicio11.runtimeconfig.json
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\bin\Debug\net9.0\exercicio11.dll
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\bin\Debug\net9.0\exercicio11.pdb
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\exercicio11.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\exercicio11.AssemblyInfo.cs
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\exercicio11.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\exercicio11.sourcelink.json
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\exercicio11.dll
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\refint\exercicio11.dll
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\exercicio11.pdb
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\exercicio11.genruntimeconfig.cache
+T:\Workspace\Matheo\exercicios-poo-jogos-digitais\exercicio9\exercicio10\exercicio11\obj\Debug\net9.0\ref\exercicio11.dll
